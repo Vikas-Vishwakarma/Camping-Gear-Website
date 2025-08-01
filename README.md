@@ -30,6 +30,7 @@ Key features include:
 ├── JavaScript/
 │   └── script.js
 ├── assets/
+├── Project Images/
 └── README.md
 
 ````
