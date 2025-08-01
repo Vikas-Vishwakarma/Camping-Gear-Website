@@ -87,6 +87,3 @@ Follow these steps to host the website on AWS S3:
 - If you rename the folder, update the image `src` paths in `index.html`.
 
 ---
-
-
-```
