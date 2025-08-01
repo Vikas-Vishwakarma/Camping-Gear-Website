@@ -8,6 +8,8 @@ _Deployed and hosted on Amazon S3 for fast, reliable, and scalable static websit
 
 This is a **static website** showcasing a camping gear and essentials store. It highlights the services offered, a portfolio of camping adventures, the company’s story, team members, and a contact form. The website is designed for outdoor enthusiasts looking for quality camping equipment such as tents, grills, backpacks, and lighting solutions.
 
+![alt text](https://github.com/Vikas-Vishwakarma/Camping-Gear-Website/blob/main/Project%20Images/Home%20Page.png)
+
 Key features include:
 
 - Responsive navigation and sections: Home, Services, Portfolio, About Us, Contact
